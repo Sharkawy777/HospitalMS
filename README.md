@@ -1,9 +1,6 @@
 # Hospital-Management-System
 
-# Project was developed with php native & Mysql database By ....
-
-1. Mahmoud Adel El-Sharkawy .... Elsharkawy1299@gmail.com
-2. Heba El-Samalouty .... hebaelsamalouty96@gmail.com
+# Project was developed with php native & Mysql database By
 
 # The Services the System provides:
 
@@ -44,4 +41,5 @@ It gives the patient complete information about:
 
 # Data-Structure
 
-![data-structure1](https://user-images.githubusercontent.com/54472692/149623250-5a7876b2-2501-49b0-a2b4-e391498c29c4.png)
+![image](https://user-images.githubusercontent.com/54472692/150348590-e80992f0-0072-4b02-88b1-194efbf8c9e2.png)
+
