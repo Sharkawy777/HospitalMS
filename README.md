@@ -1,6 +1,6 @@
 # Hospital-Management-System
 
-# Project was developed with php native & Mysql database By
+# Project was developed with php native & Mysql database
 
 # The Services the System provides:
 
